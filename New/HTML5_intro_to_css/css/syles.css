@@ -1,0 +1,62 @@
+html{
+    background-color: #F27405;
+}
+body{
+    background-color: rgb(164, 149, 149);
+    width: 960px;
+    margin: 20px auto
+}
+
+header{
+    padding: 20px;
+    text-align: center;
+}
+header img{
+    display: block
+    center;
+    margin: 20px; auto:
+    width: 30%
+    
+}
+
+nav{
+    background-color:rgb(228, 98, 28);
+padding: 20px;
+text-align: center;
+}
+
+nav a {
+    color: rgb(62, 57, 57);
+    font-size: 20px;
+    margin: 0 20px;
+}
+
+nav a:hover {
+    color: purple;
+    text-decoration: none;
+}
+
+main {
+    padding: 20px;
+}
+
+main img {
+    display: block
+    center;
+    margin: 20px auto;
+    width: 35%;
+}
+
+footer{
+    background-color:rgb(228, 98, 28);
+    text-align: center;
+    padding: 40px 0;
+}
+
+a:hover{
+    color: purple;
+    text-decoration: none;
+}
+h1, h2, h3 {
+    color:rgb(66, 54, 54)
+}
